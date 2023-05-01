@@ -1,1 +1,3 @@
-Initializing project with a readme and git repo in Github.
+## Ciky bike rides application.
+
+Built with Next.js, React.js, Node.js, Express.js and TailwindCSS.
